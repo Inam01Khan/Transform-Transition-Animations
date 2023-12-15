@@ -66,3 +66,34 @@ div.c {
   background-color: yellow;
   transform: rotateY(-60deg);
 } */
+
+/* TRANSITION  */
+
+/* Transition-property, Transition-duration, Transition-timing-function and Transition-delay */
+
+/* div {
+  width: 100px;
+  height: 100px;
+  background: red;
+  transition-property: width;
+  transition-duration: 2s;
+  transition-timing-function: ease-out;
+  transition-delay: 2s;
+}
+
+div:hover {
+  width: 300px;
+} */
+
+/* Transition Short Hand */
+
+/* div {
+    background-color: red;
+  width: 100px;
+  height: 100px;
+  transition: width 2s;
+}
+
+div:hover {
+  width: 300px;
+} */
